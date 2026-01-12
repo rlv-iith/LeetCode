@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rlv-iith/LeetCode/tree/master/0001-two-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rlv-iith/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
