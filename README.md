@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/rlv-iith/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/rlv-iith/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rlv-iith/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/rlv-iith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rlv-iith/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rlv-iith/LeetCode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rlv-iith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
