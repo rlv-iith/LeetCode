@@ -12,6 +12,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rlv-iith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rlv-iith/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rlv-iith/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/rlv-iith/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rlv-iith/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/rlv-iith/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
