@@ -70,4 +70,16 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/rlv-iith/LeetCode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/rlv-iith/LeetCode/tree/master/1732-find-the-highest-altitude) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rlv-iith/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rlv-iith/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rlv-iith/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
