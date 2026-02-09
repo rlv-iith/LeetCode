@@ -11,6 +11,7 @@
 | [0605-can-place-flowers](https://github.com/rlv-iith/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rlv-iith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rlv-iith/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/rlv-iith/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rlv-iith/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rlv-iith/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rlv-iith/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rlv-iith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/rlv-iith/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rlv-iith/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rlv-iith/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/rlv-iith/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/rlv-iith/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/rlv-iith/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rlv-iith/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
