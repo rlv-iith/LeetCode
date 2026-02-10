@@ -96,4 +96,12 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rlv-iith/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rlv-iith/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rlv-iith/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
